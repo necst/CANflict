@@ -1,0 +1,7 @@
+#pragma once
+
+///\brief Possible values of CANFLICT_LPC11_TIMER.
+#define CANFLICT_LPC11_TIMER16_0 0
+#define CANFLICT_LPC11_TIMER16_1 1
+#define CANFLICT_LPC11_TIMER32_0 2
+#define CANFLICT_LPC11_TIMER32_1 3
