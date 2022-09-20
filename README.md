@@ -1,13 +1,13 @@
 # CANflict
 
-This is the official repository for the CANflict project of Politecnico di Milano (Italy).
+This is the official repository for the CANflict project.
 
 To cite CANflict, please use the following BibTeX and DOI (they will be updated once final version is released): `https://doi.org/10.1145/3548606.3560618`
 
 ```
 @inproceedings{CANflict_temp,
   title={CANflict: Exploiting Peripheral Conflicts for Data-Link Layer Attacks on Automotive Networks},
-  author={De Faveri, Alvise and Longari, Stefano and Carminati, Michele and Polino, Mario and Zanero, Stefano},  
+  author={de Faveri Tron, Alvise and Longari, Stefano and Carminati, Michele and Polino, Mario and Zanero, Stefano},  
   booktitle={Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security},
   pages={},
   year={2022},
@@ -15,7 +15,7 @@ To cite CANflict, please use the following BibTeX and DOI (they will be updated 
 }
 ```
 ## Authors
-- Alvise De Faveri (alvise [dot] defaveri [at] mail  [dot] polimi [dot] it) <sup>P,V</sup>
+- Alvise de Faveri Tron(a [dot] de [dot] faveri [dot] tron [at] vu [dot] nl) <sup>P,V</sup>
 - Stefano Longari (stefano [dot] longari [at] polimi [dot] it) <sup>P</sup> 
 - Michele Carminati (michele [dot] carminati [at] polimi [dot] it) <sup>P</sup>
 - Mario Polino (mario [dot] polino [at] polimi [dot] it) <sup>P</sup>
